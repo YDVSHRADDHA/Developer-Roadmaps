@@ -19,7 +19,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Ahh! there we're!👋</h1>
 
 ###
 
@@ -27,7 +27,8 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Enthusiastic and detail-oriented aspiring Computer professional, with a fresh perspective and a strong
+willingness to learn and work<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning <br>- ⚡ In my free time I ...</p>
 
 ###
 
