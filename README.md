@@ -39,7 +39,7 @@ willingness to learn and work<br><br>- 🔭 I’m working as Frontend Developer<
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Java"  />
+  <img src="https://<a href="https://iconscout.com/icons/react" class="text-underline font-size-sm" target="_blank">React</a> by <a href="https://iconscout.com/contributors/icon-mafia" class="text-underline font-size-sm">Icon Mafia</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>" height="40" alt="Java"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-html/dot-html-plain-wordmark.svg" height="40" alt="Html"  />
   <img width="12" />
